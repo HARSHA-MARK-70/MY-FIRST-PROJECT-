@@ -1,2 +1,5 @@
+name = "S H"
+
 print("Hello GitHub!")
-print("I am learning coding 🚀")
+print("My name is", name)
+print("I am learning Git and GitHub 🚀")
